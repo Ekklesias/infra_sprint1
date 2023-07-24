@@ -1,5 +1,5 @@
-IP: 158.160.69.106
-name_taski: https://iakovtask.hopto.org/
-name_kittygram: https://nicecats.hopto.org/
-login: Admin
-password: PaRoLb8890
+IP: 158.160.69.106;
+name_taski: https://iakovtask.hopto.org/;
+name_kittygram: https://nicecats.hopto.org/;
+login: Admin;
+password: PaRoLb8890;
